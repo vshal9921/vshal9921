@@ -1,13 +1,13 @@
 ## 💫 About Me:
-🔭 **I’m currently working on:** <br>Android Application with latest technologies.
+🔭 **I’m currently working on:** <br>Android Applications with latest technologies.
 
 👯 **I’m looking to collaborate on:** <br>Native Android projects
 
 🌱 **I’m currently learning:**  <br>Advanced android topics.
 
-💬 **Ask me about:**  <br>Android, Java, Kotlin and any general software development questions.
+<!-- 💬 **Ask me about:**  <br>Android, Java, Kotlin and any general software development questions.
 
-⚡ **Fun fact:**  <br>I love playing games.
+ ⚡ **Fun fact:**  <br>I love playing games. -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vhhal9921&label=Profile%20views&color=0e75b6&style=flat" alt="vshal9921" /> </p>
 
