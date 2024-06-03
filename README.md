@@ -1,5 +1,6 @@
 ## 💫 About Me:
-🔭 **I’m currently working on:** <br>Android Applications with latest technologies.
+🔭 **I’m currently working on:** <br>Android Applications using **Java and Kotlin**.
+<br>Cross Platform Applications using **Flutter and Dart**.
 
 👯 **I’m looking to collaborate on:** <br>Native Android projects
 
